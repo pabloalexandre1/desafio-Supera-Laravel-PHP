@@ -1,0 +1,52 @@
+body{
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 110px;
+}
+/*formulario */
+.main-logo{
+    width: 115px;
+    border-radius: 50%;
+}
+.form{
+    width: 300px;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: none;
+}
+.form-button{
+    width: 90px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+/* TIPOGRAFIA */
+
+h1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 30px;
+
+}
+h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+span{
+    color: #67AECA;
+}
